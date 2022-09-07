@@ -52,7 +52,9 @@ W tej kolejności (zawsze)
 Dla przykładu:
 
 `public static int liczba = 5;`
+
 `String test = "dziala";`
+
 `protected boolean rozumiesz = false;`
 
 ---
