@@ -10,9 +10,13 @@ Przykłady:
 
 
 `String` - "Tekst" -> Zapisywany pomiędzy dwoma cudzysłowami (")
+
 `int/Integer` - 5 -> Liczba
+
 `boolean` -> Zmienna 0/1 (true/false)
+
 `float/double/long` -> Liczby zmiennoprzecinkowe (0.5, 1.25F etc.)
+
 `void` -> Nic (brak zwracanej wartości etc.)
 
 ---
