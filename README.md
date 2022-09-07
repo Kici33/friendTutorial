@@ -25,8 +25,10 @@ Przykłady:
 w Javie wyróżniamy 3 typy dostępu do rzeczy (klas/metod/zmiennych). Służą one aby ograniczyć dostęp do rzeczy (bądź aby uniemożliwiać pewne operacje, które omówimy później).
 
 `public` -> Najprostszy typ, ponieważ umożliwia on dostęp ze wszystkich miejsc (innych klas etc.)
+
 `protected` -> Typ który ogranicza dostęp tylko do
 klas wewnątrz tego samego **package'a** (package możemy traktować jak swego rodzaju folder, w którym są składowane wszystkie klasy).
+
 `private` -> Typ prosty, który umożliwia dostęp do rzeczy tylko z klasy w której jest zadeklarowane (nie można uzyskać dostępu z zewnątrz)
 
 ---
